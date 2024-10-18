@@ -1,3 +1,10 @@
+deepin-dummyapps (1.1.0) UNRELEASED; urgency=medium
+
+  * Refactored dummy app entry point mechanism, eliminated the need of
+    infinitely adding shell scripts for every new dummy app added.
+
+ -- Wu Haotian <wuhaotian@uniontech.com>  Fri, 18 Oct 2024 17:14:44 +0800
+
 deepin-dummyapps (1.0.1) unstable; urgency=medium
 
   * Initial tag release.
