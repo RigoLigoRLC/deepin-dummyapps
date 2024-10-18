@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256pt"
+   height="256pt"
+   viewBox="0 0 90.311109 90.31111"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="dummyapp-dummyapptestreserved.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.2828283"
+     inkscape:cx="8.9645669"
+     inkscape:cy="174.61417"
+     inkscape:window-width="1920"
+     inkscape:window-height="962"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="11.906249,78.404858"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="78.404857,11.906249"
+       orientation="1,0"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.906249,78.404858"
+       orientation="0,-1"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="78.404857,11.906249"
+       orientation="0,-1"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="47.721825,27.833214"
+       orientation="1,0"
+       id="guide8"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="108.51638"
+       y="66.751377"
+       width="280.20818"
+       height="313.68215"
+       id="rect8" />
+    <rect
+       x="102.95572"
+       y="78.373834"
+       width="128.85898"
+       height="188.22986"
+       id="rect7" />
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#dc8b0d;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#dfb23e;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient6"
+       gradientUnits="userSpaceOnUse"
+       x1="45.155556"
+       y1="78.404861"
+       x2="45.155556"
+       y2="11.906249"
+       gradientTransform="matrix(0.94399415,0,0,0.94399415,2.5289764,2.528975)" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#efe1b0;stroke-width:0.264583;fill-opacity:1"
+       id="rect4"
+       width="66.498611"
+       height="66.498611"
+       x="11.90625"
+       y="11.906249"
+       ry="10.939357" />
+    <rect
+       style="fill:url(#linearGradient6);stroke-width:0.249764"
+       id="rect4-1"
+       width="62.774303"
+       height="62.774303"
+       x="13.768407"
+       y="13.768405"
+       ry="10.326689" />
+    <path
+       d="m 61.025926,34.451497 c 0,5.132545 -1.733361,9.2746 -7.631286,12.426163 -2.476228,1.260625 -4.006987,2.228605 -4.592278,2.90394 -0.855424,1.035513 -1.215602,3.129052 -1.080535,6.280615 v 1.418203 h -7.023483 v -2.971474 c 0,-3.376675 0.427712,-5.740347 1.283136,-7.091017 0.675335,-1.035513 1.839661,-2.373547 3.232243,-3.413684 1.392581,-1.040137 4.773484,-2.80776 5.370169,-3.318262 2.003159,-1.659131 4.462422,-3.701138 4.462422,-6.126023 0,-3.403344 -2.246161,-5.785685 -5.357449,-7.147024 -1.406474,-0.595586 -2.919498,-0.893378 -4.539073,-0.893378 -4.347276,0 -7.394632,1.999465 -9.142068,5.998396 l -0.767168,2.488696 c -0.08524,0.340335 -0.149171,0.723211 -0.191791,1.148629 l -5.763574,-1.095979 c 1.035513,-6.483214 4.187076,-10.737823 9.454689,-12.763828 2.026,-0.810402 4.299625,-1.215603 6.820876,-1.215603 5.042501,0 9.049488,1.530759 12.020961,4.592278 l 1.418204,1.688337 c 1.305647,2.026003 1.980982,4.389675 2.026005,7.091015 z M 47.721827,69.231246 h -7.023483 v -6.75335 h 7.023483 z"
+       id="text7"
+       style="font-size:96px;font-family:'文泉驿点阵正黑';-inkscape-font-specification:'文泉驿点阵正黑';white-space:pre;fill:#efe1b0;stroke-width:0.720357"
+       aria-label="?"
+       sodipodi:nodetypes="ccccccscccscscccccscccccccc" />
+  </g>
+</svg>
